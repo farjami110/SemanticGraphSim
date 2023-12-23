@@ -14,6 +14,9 @@ The project utilizes the Universal Sentence Encoder (USE) to generate embeddings
 
 We then extend our analysis to visualize the correlation between these similarity scores and to identify papers that are most closely associated with each aspect of uncertainty. This approach allows us to not only see individual relationships but also how these concepts interact as a whole within the field.
 
+![Heatmap of Correlation Between Different Similarity Scores](Heatmap_of_Correlations.png)
+
+
 ## Conclusions
 
 The analysis revealed that:
