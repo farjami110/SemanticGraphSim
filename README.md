@@ -31,4 +31,4 @@ Through SemanticGraphSim, we've taken an important step toward a deeper understa
 
 For more information, updates, and contributions, please consider starring and forking this repository.
 
-SemanticGraphSim`
+SemanticGraphSim
